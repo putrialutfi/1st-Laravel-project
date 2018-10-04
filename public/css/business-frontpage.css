@@ -1,0 +1,23 @@
+@media (min-width: 992px) {
+  body {
+    padding-top: 5px;
+  }
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  background: center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+nav{
+    background-color: #2980b9;
+}
+
+.card {
+  height: 100%;
+}
